@@ -15,7 +15,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
-      <GlobalStyles/>
+      <GlobalStyles />
       <ThemeProvider theme={light}>
         <Navigation />
         <Home />
